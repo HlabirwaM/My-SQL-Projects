@@ -5,7 +5,7 @@ Projects Overview:
 
 ## [1) Hotel Bookings and Cancellation Analysis ](https://github.com/HlabirwaM/My-SQL-Projects/blob/main/hotelanalysis.sql)
 
-In this project, I leverage my SQL and data analysis skills to perform exploratory data analysis on a simulated hotel named AB11, utilizing data from Kaggle provided by Youssef Aboelwafa. The primary objective is to gain insights into the booking and cancellation patterns of clients.
+In this project, I leverage my SQL and data analysis skills to perform exploratory data analysis on a simulated hotel named AB11, utilizing data from Kaggle provided by [Youssef Aboelwafa](https://www.kaggle.com/datasets/youssefaboelwafa/hotel-booking-cancellation-prediction). The primary objective is to gain insights into the booking and cancellation patterns of clients.
 
 ### Key Highlights:
 
