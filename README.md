@@ -3,7 +3,7 @@
 Hello and thank you for visiting my repository! Here, I share various SQL projects where I've applied my skills to analyze publicly available datasets from Kaggle. Below are some of the interesting projects that showcase my proficiency in SQL, covering tasks from creating tables to conducting exploratory data analysis.
 Projects Overview:
 
-## 1) Hotel Bookings and Cancellation Analysis
+## [1) Hotel Bookings and Cancellation Analysis ](https://github.com/HlabirwaM/My-SQL-Projects/blob/main/hotelanalysis.sql)
 
 In this project, I leverage my SQL and data analysis skills to perform exploratory data analysis on a simulated hotel named AB11, utilizing data from Kaggle provided by Youssef Aboelwafa. The primary objective is to gain insights into the booking and cancellation patterns of clients.
 
