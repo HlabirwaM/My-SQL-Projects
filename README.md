@@ -21,6 +21,6 @@ In this project, I leverage my SQL and data analysis skills to perform explorato
  *   Exploration of complex datasets to extract meaningful insights.
 
 ### PowerBI Dashboard:
- *  For enhanced visualization, I have created a PowerBI Dashboard, available on novypro. The dashboard complements the SQL analysis by providing a visual representation of the data.
+ *  For enhanced visualization, I have created a [PowerBI Dashboard](https://www.novypro.com/project/ab11-hotel-dashboard), available on my novypro profile. The dashboard complements the SQL analysis by providing a visual representation of the data.
 
 Feel free to explore the SQL analysis, review the PowerBI Dashboard, and reach out for discussions and comments. Your feedback is highly appreciated!
