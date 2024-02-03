@@ -5,7 +5,7 @@ Projects Overview:
 
 ## [1) Banking Campaign Analysis](https://github.com/HlabirwaM/My-SQL-Projects/blob/main/bankcampaign.sql)
 
-In this comprehensive project, I showcase my proficiency in SQL and data analysis by delving into the intricacies of a dataset related to the direct marketing campaign of a prominent Portuguese banking institution. The focal point of this campaign was telephone-based outreach, often requiring multiple contacts with the same client. The overarching goal was to determine whether clients would subscribe ('yes') or not ('no') to a specific financial product – the bank term deposit. This dataset was publised on [Kaggle](https://www.kaggle.com/datasets/prakharrathi25/banking-dataset-marketing-targets) by Rashmi.
+In this comprehensive project, I showcase my proficiency in SQL and data analysis by delving into the intricacies of a dataset related to the direct marketing campaign of a prominent Portuguese banking institution. The focal point of this campaign was telephone-based outreach, often requiring multiple contacts with the same client. The overarching goal was to determine whether clients would subscribe ('yes') or not ('no') to a specific financial product – the bank term deposit. This dataset was published on [Kaggle](https://www.kaggle.com/datasets/prakharrathi25/banking-dataset-marketing-targets) by Prakhar Rathi.
 
 ### Key Highlights:
 
